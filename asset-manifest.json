@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Dusan-Lex/blog.git/static/js/main.fc09890a.chunk.js",
+    "main.js.map": "/Dusan-Lex/blog.git/static/js/main.fc09890a.chunk.js.map",
+    "runtime-main.js": "/Dusan-Lex/blog.git/static/js/runtime-main.cd9ebd9b.js",
+    "runtime-main.js.map": "/Dusan-Lex/blog.git/static/js/runtime-main.cd9ebd9b.js.map",
+    "static/js/2.8d5d866e.chunk.js": "/Dusan-Lex/blog.git/static/js/2.8d5d866e.chunk.js",
+    "static/js/2.8d5d866e.chunk.js.map": "/Dusan-Lex/blog.git/static/js/2.8d5d866e.chunk.js.map",
+    "index.html": "/Dusan-Lex/blog.git/index.html",
+    "static/js/2.8d5d866e.chunk.js.LICENSE.txt": "/Dusan-Lex/blog.git/static/js/2.8d5d866e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd9ebd9b.js",
+    "static/js/2.8d5d866e.chunk.js",
+    "static/js/main.fc09890a.chunk.js"
+  ]
+}
